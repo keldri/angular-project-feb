@@ -1,0 +1,31 @@
+{
+  "name": "angular-project-feb",
+  "version": "1.0.0",
+  "description": "Angular test project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keldri/angular-project-feb.git"
+  },
+  "keywords": [
+    "Angular",
+    "test"
+  ],
+  "author": "Kate Eldridge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keldri/angular-project-feb/issues"
+  },
+  "homepage": "https://github.com/keldri/angular-project-feb#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-compass": "^2.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-watch": "^4.3.5"
+  }
+}
